@@ -1,0 +1,33 @@
+.pink{
+    background-color: pink;
+    width: 1200px;
+    height: 550px;
+    margin-left: 70px;
+    margin-top:30px;
+    border-radius: 15px;
+}
+.blue{
+    background-color: blue;
+    height: 500px;
+    width: 1150px;
+    margin-left: 25px;
+    margin-bottom: 37px;
+    margin-top: 5px;
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+}
+
+.los{
+    display: flex;
+    margin-left: 80px;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.text1{
+    color: white;
+    padding: 20px;    
+}
+
+
